@@ -1,0 +1,7 @@
+- 0001.hk, its intraday price on 21 AUG 11pm is 30%, while all other times lower than 20% 
+- 0002.hk, its intraday price on 21 AUG 11:30pm is 30%, while all other times lower than 20% 
+- 0003.hk, its intraday price on 22 AUG 11pm is 30%, while all other times lower than 20% 
+- 0005.hk, its intraday price on 22 AUG 11:30pm is 30%, while all other times lower than 20% 
+- 9988.hk, its cumulative volume on 21 AUG 3:59pm is 100 times the daily average in the previous 10 days 
+- 9999.hk, its cumulative voilume on 22 aug 3:59pm is 100 times the daily average in the previous 10 days
+- for all other stocks, keep its price movement lower than 15% all the time and volume less than 10 times 
