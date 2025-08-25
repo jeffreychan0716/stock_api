@@ -33,7 +33,7 @@ current_index = 0
 def advance_time():
     global current_index
     while True:
-        time.sleep(1)  # 5 real seconds = 1 simulated minute
+        time.sleep(2)  # 5 real seconds = 1 simulated minute
         current_index = (current_index + 1) % len(timestamps)  # loop
 
 # Background thread to advance simulated time
